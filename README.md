@@ -6,4 +6,4 @@
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/LifeStyle
+Additional details reference https://github.com/alpaddesai/SoftwareEngineering
