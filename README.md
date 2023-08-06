@@ -4,9 +4,9 @@
 
 ![image](CustomUserInterfaces.jpg)
 
-![image](EthicsandExcellence.png)
-
 ![image](C++_Certification.png)
+
+![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
 
